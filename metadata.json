@@ -1,0 +1,6 @@
+{
+  "name": "AI News Studio Editor",
+  "description": "Create professional 1–5 minute News Videos quickly for Facebook Reels, YouTube Shorts and YouTube Landscape. Features include video preview timeline, Bangla/English text-to-speech, camera recording, auto subtitles, smart breaking news tickers, and predefined news templates with TV news overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
